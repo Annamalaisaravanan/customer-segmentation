@@ -3,10 +3,3 @@
 enableCORS=false
 
 enableWebsocketCompression = false
-
-port = 8587
-
-
-[browser]
-
-serverPort = 8587
