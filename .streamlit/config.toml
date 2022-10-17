@@ -1,5 +1,7 @@
 [server]
 
-enableCORS=true
+enableCORS=false
 
-enableWebsocketCompression = true
+enableWebsocketCompression = false
+
+enableXsrfProtection = false
