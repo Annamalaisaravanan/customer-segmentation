@@ -2,4 +2,4 @@
 
 enableCORS=true
 
-enableWebsocketCompression = false
+enableWebsocketCompression = true
